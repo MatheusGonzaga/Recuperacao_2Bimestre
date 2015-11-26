@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Projeto SNCT</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="nome_avaliador">Nome do Avaliador</string>
+    <string name="titulo_trabalho">Titulo do trabalho</string>
+    <string name="nota">Nota</string>
+    <string name="coments">Comentários</string>
+    <string name="avaliar">Avaliar</string>
+    <string name="action_settings">Settings</string>
+    <string name="consultavalia">Contar Avaliações</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="Splash">Eu sou o Ace</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_projeto_dao">ProjetoDAO</string>
+    <string name="click_textview">Click</string>
+    <string name="notificacao_button">Notificação</string>
+
+</resources>
